@@ -17,7 +17,7 @@ Bu projede bütün ürünler ayrı class`larda oluşturulmuştur.
 - While döngüsü
 - Encapsulation mantığı
 
-##Özellikler
+## Özellikler
 - Ürün ekleme
 - Sepet sistemi
 - Toplam fiyat hesaplama
