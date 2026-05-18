@@ -1,7 +1,7 @@
 # BeautyStore 
 Java OOP mantığı ile hazırlanmış mini proje.
 
-##Proje Nasıl İşliyor?
+## Proje Nasıl İşliyor?
 Bu projede bütün ürünler ayrı class`larda oluşturulmuştur. 
 - Product sınıfı temel özellikleri tutmaktadır.
 - Foundation, Lipstick, Blush, Primer, Mascara sınıfları Product sınıfından miras alır.
@@ -10,7 +10,7 @@ Bu projede bütün ürünler ayrı class`larda oluşturulmuştur.
 - ShowCart() metodu sepetteki ürünleri listeler.
 - totalPrice() metodu toplam fiyatı hesaplar.
 
-##Projede kullandıklarım
+## Projede kullandıklarım
 - Class yapıları
 - Inheritance
 - ArrayList
